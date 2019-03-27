@@ -1,0 +1,3 @@
+/home/divitto/DivittoUnlimited/RnD/CrossPlatformDemo/CMakeFiles/rebuild_cache.dir
+/home/divitto/DivittoUnlimited/RnD/CrossPlatformDemo/CMakeFiles/demo.dir
+/home/divitto/DivittoUnlimited/RnD/CrossPlatformDemo/CMakeFiles/edit_cache.dir
